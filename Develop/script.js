@@ -3,3 +3,4 @@ console.log(time);
 
 document.getElementById("currentDay").innerHTML = time;
 
+let textArea
